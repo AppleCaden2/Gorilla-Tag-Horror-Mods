@@ -23,7 +23,7 @@ AMAZE FILE MANAGER/INSTALLATION OF THE MOD MENU
    
 6.  Download the dll file I posted in the code section of the github page to your headset go back to the  downloads section  on amaze find the dll file you just downloaded  click the three dots by the dll file then copy go all the way back to .com lemmon gorilla tag and open the folder you previously titled "mods" and paste the dll file into the "mods" folder.
 
-7.  after all of that you finally know how to mod gorilla tag horror if you dont see a mod menu in the corner of your screen when you click both of your joysticks together at once  you did something wrong. you can go back and redo the previous steps If you dont see a mod menu in the corner of your screen.
+7.  after all of that you finally know how to mod gorilla tag horror wait for awhile you should see a black screen that is supposed to happen wait around 5-15 minutes dont exit or the next time you join it will take even longer when it loads if you dont see a mod menu in the corner of your screen when you click both of your joysticks together at once  you did something wrong. you can go back and redo the previous steps If you dont see a mod menu in the corner of your screen.
 
 CONTROLS
 
