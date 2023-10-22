@@ -4,12 +4,12 @@ If you would rather watch a video I found online that goes through how to downlo
 (if you need help with this step look up how to install apks on quest standalone) (If the method you are using requires mobile vr station and you dont see the app permisions or it isnt working   reinstall mobile vr station and it hopefully should be resolved)
 
  2.Find gorilla tag horror in lemon loader then patch Gorilla tag horror after accpeting all of the  app permissions for lemon loader/ melon loader.
-(If you see files make sure to press use this folder on the bottom of lemmon loader) (If you see a button that says input make sure you click input as this I believe loads into the file screen I was talking about a few seconds ago.)
+(If you see files make sure to press use this folder on the bottom of lemmon loader) (If you see a button that says setup make sure you click setup as this I believe loads into the file screen I was talking about a few seconds ago.)
 
 
-WARNING: when patching if you are in gorilla tag horror when it asks you to reinstall the game it will kick you and you have to reinstall the game again directly from  thunderstore so make sure to exit gorilla tag horror before patching. 
+WARNING: when patching if you are in gorilla tag horror when it asks you to reinstall the game it will kick you and you have to reinstall the game again directly from  itch.io so make sure to exit gorilla tag horror before patching. 
 
-WARNING: when patching if you exit lemon loader  without seeing the prompt patch successfull  somewhere on the patching screen  you will also have to directly reinstall the game from thunderstore because the patching is incomplete.
+WARNING: when patching if you exit lemon loader  without seeing the prompt patch successfull  somewhere on the patching screen  you will also have to directly reinstall the game from itch.io because the patching is incomplete.
 
 WARNING: if you happen to reinstall the game because something went wrong with patching and it didnt reinstall the game back to your unknown sources tab on your  headset you will have to repatch as your new gorilla tag horror apk is not patched. Make sure you delete the old gorilla tag horror apk if you are going to install a new one.
 
