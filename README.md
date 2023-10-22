@@ -11,14 +11,14 @@ WARNING: when patching if you are in gorilla tag horror when it asks you to rein
 
 WARNING: when patching if you exit lemon loader  without seeing the prompt patch successfull  somewhere on the patching screen  you will also have to directly reinstall the game from thunderstore because the patching is incomplete.
 
-WARNING: if you happen to reinstall the game because something went wrong with patching and it didnt reinstall the game back to your unknown sources tab on your  headset you will have to repatch as your new gorilla tag horror apk is not patched make sure you delete the old gorilla tag horror apk if you are going to install a new one.
+WARNING: if you happen to reinstall the game because something went wrong with patching and it didnt reinstall the game back to your unknown sources tab on your  headset you will have to repatch as your new gorilla tag horror apk is not patched. Make sure you delete the old gorilla tag horror apk if you are going to install a new one.
 
 3. If you followed the steps thorougly and lemon loader actually worked then you need to install an apk onto your headset called "amaze file manager"  This is what you will need to create  a mods folder if you dont already have one and import the mod menu to. I am not going to go into where you can find the  apk as I dont want to give you a bad download link  that is  is out of date You could find a turtorial online that has an up to date download link and a step to step turtorial on how to download it.
 
-4. after you download amaze to your headset go to the back arrow on the top left hand corner of amaze then go to the top button i believe it is called DCIM or something simular open that go to andriod then data scroll up or down until you see .com lemmon gorilla tag open it then open "files" then this is where you will make a folde titled, "mods" if you dont already see one.
+4. After you download amaze to your headset go to the back arrow on the top left hand corner of amaze then go to the top button I believe it is called DCIM or something simalar open that go to andriod then data scroll up or down until you see .com lemmon gorilla tag open it then open "files" then this is where you will make a folde titled, "mods" if you dont already see one.
 
 5.  Download the dll file I posted in the code section of the github page to your headset go back to the  downloads section  on amaze find the dll file you just downloaded  click the three dots by the dll file then copy go all the way back to .com lemmon gorilla tag and open the folder you previously titled "mods" and paste the dll file into the "mods" folder.
 
-6.  after all of that you finally know how to mod gorilla tag horror if you did something wrong and it dosent work you already know the steps so you know how to go back and redo the steps if it didnt work. If you dont see a mod menu in the corner of your screen you did something wrong double click both of your joysticks and if it still dosent appear you did something wrong.
+6.  after all of that you finally know how to mod gorilla tag horror if you dont see a mod menu in the corner of your screen when you click both of your joysticks together at once  you did something wrong. you can go back and redo the previous steps If you dont see a mod menu in the corner of your screen.
 
 7. If you do see a mod menu then congrats you did it correctly! Now if you want to control the menu just hold down the left joystick press the right trigger to move down the menu and press the grip button to select.
