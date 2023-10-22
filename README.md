@@ -1,6 +1,6 @@
 If you would rather watch a video I found online that goes through how to download it  then be my guest but it leaves out the lemon loader/melon loader part. https://www.youtube.com/watch?v=ko8h58Tlbj8
 
-1.How ever you installed your apk for gorilla tag horror do the same for the melon/lemmon loader apk file.
+1.How ever you installed your apk for gorilla tag horror do the same for the melon/lemmon loader apk file I listed above.
 (if you need help with this step look up how to install apks on quest standalone) (If the method you are using requires mobile vr station and you dont see the app permisions or it isnt working   reinstall mobile vr station and it hopefully should be resolved)
 
  2.Find gorilla tag horror in lemon loader then patch Gorilla tag horror after accpeting all of the  app permissions for lemon loader/ melon loader.
