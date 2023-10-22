@@ -6,7 +6,9 @@
 
 
 WARNING: when patching if you are in gorilla tag horror when it asks you to reinstall the game it will kick you and you have to reinstall the game again directly from  thunderstore so make sure to exit gorilla tag horror before patching. 
+
 WARNING: when patching if you exit lemon loader  without seeing the prompt patch successfull  somewhere on the patching screen  you will also have to directly reinstall the game from thunderstore because the patching is incomplete.
+
 WARNING: if you happen to reinstall the game because something went wrong with patching and it didnt reinstall the game back to your unknown sources tab on your  headset you will have to repatch as your new gorilla tag horror apk is not patched make sure you delete the old gorilla tag horror apk if you are going to install a new one.
 
 3. If you followed the steps thorougly and lemon loader actually worked then you need to install an apk onto your headset called "amaze file manager" This is what you will do to create  a mods folder if you dont already have one and import the mod menu to.
