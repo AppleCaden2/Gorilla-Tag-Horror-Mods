@@ -17,4 +17,4 @@ WARNING: if you happen to reinstall the game because something went wrong with p
 
 6.  after all of that you finally know how to mod gorilla tag horror if you did something wrong and it dosent work you already know the steps so you know how to go back and redo the steps if it didnt work. If you dont see a mod menu in the corner of your screen you did something wrong double click both of your joysticks and if it still dosent appear you did something wrong.
 
-7. If you do see a mod menu then congrats you did it correctly! Now if you want to control the menu just...
+7. If you do see a mod menu then congrats you did it correctly! Now if you want to control the menu just hold down the left joystick press the right trigger to move down the menu and press the grip button to select.
