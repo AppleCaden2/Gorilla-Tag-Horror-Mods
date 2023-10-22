@@ -5,7 +5,7 @@ LEMON LOADER
 1.How ever you installed your apk for gorilla tag horror do the same for the melon/lemmon loader apk file I listed above.
 (if you need help with this step look up how to install apks on quest standalone) (If the method you are using requires mobile vr station and you dont see the app permisions or it isnt working   reinstall mobile vr station and it hopefully should be resolved)
 
- 2.Find gorilla tag horror in lemon loader then patch Gorilla tag horror after accpeting all of the  app permissions for lemon loader/ melon loader.
+ 2. Open lemon installer from your unknown sources tab on your headset. After accpeting all of the  app permissions for lemon loader/ melon loader find gorilla tag horror in lemon loader then patch 
 (If you see files make sure to press use this folder on the bottom of lemmon loader) (If you see a button that says setup make sure you click setup as this I believe loads into the file screen I was talking about a few seconds ago.) (ALSO if it says something like Patching failed your version is out of date  make sure to download the updated version above.)
 
 
@@ -27,4 +27,4 @@ AMAZE FILE MANAGER/INSTALLATION OF THE MOD MENU
 
 CONTROLS
 
-8. If you do see a mod menu then congrats you did it correctly! Now if you want to control the menu just hold down the left joystick press the right trigger to move down the menu and press the grip button to select.
+8. If you do see a mod menu then congrats you did it correctly! Now if you want to control the menu just hold down the left joystick press the right trigger to move down the menu and press the grip button to select. (if you want to download another mod menu that you know is combatible with gorilla tag horror just delete the dll file from the folder you titled mods.) NOTE: JUST THE DLL FILE NOT THE ENTIRE FOLDER.
